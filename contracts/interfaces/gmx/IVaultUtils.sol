@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: ISC
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 interface IVaultUtils {
   function updateCumulativeFundingRate(address _collateralToken, address _indexToken) external returns (bool);

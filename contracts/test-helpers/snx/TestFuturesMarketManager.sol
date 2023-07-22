@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: ISC
 // Test contract to mimic the funcitonality of snx futures market manager
 
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 import "../../synthetix/Owned.sol";
 import "../../libraries/SimpleInitializable.sol";

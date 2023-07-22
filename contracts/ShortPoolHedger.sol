@@ -9,7 +9,7 @@
 // (____/'(_____)   (_) (_)(_____)  (_)     (_) (_)(____/'`\___/'(_)(____/'`\___x___/'
 //
 
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 // Libraries
 import "./synthetix/DecimalMath.sol";

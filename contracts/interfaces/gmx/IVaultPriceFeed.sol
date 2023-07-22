@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: ISC
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 interface IVaultPriceFeed {
   function PRICE_PRECISION() external view returns (uint);

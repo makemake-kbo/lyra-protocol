@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: ISC
 import "./IERC20Decimals.sol";
 
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 interface IWETH is IERC20Decimals {
   receive() external payable;

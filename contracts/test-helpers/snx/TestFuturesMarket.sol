@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: ISC
 // contract to mock snx futures market
 
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 import "../../interfaces/IFuturesMarket.sol";
 import "../../synthetix/Owned.sol";

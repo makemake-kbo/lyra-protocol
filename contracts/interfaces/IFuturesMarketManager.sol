@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: ISC
 // interface for FuturesMarketManager
 
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 interface IFuturesMarketManager {
   function markets(uint index, uint pageSize) external view returns (address[] memory);

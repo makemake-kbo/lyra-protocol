@@ -1,5 +1,5 @@
 //SPDX-License-Identifier:MIT
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 // https://docs.synthetix.io/contracts/source/interfaces/iexchangerates
 interface IExchangeRates {
